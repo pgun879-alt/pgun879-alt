@@ -23,6 +23,10 @@ code before you decide to work with me.
 its limitations as plainly as its features, and carries a security policy that states what is
 deliberately *not* a vulnerability.
 
+**In progress:** [**nexabot**](https://github.com/pgun879-alt/nexabot) — the foundation of an AI assistant
+platform (clean architecture, async SQLAlchemy, tested migrations, 143 tests). Not production-ready
+yet; its README lists exactly what is still missing.
+
 ### How I work
 
 A defined scope before I start · working software you can run yourself · tests that prove it
@@ -66,6 +70,10 @@ Working in **Arabic and English** · based in Algeria
 | [**raqib**](https://github.com/pgun879-alt/raqib) | يراقب صفحات الويب: تغيّر المحتوى، والتوافر، وتراجع الأمان. حارس SSRF، واحترام فعلي لـ robots.txt، وتنبيه واحد لكل تغيّر حالة | ٢٩٨ |
 
 **٨٦٠ اختبارًا آليًا** في المشاريع الثلاثة، وفحص أنواع وتنسيق نظيف بالكامل.
+
+**قيد التطوير:** [**nexabot**](https://github.com/pgun879-alt/nexabot) — أساس منصّة مساعد ذكي (معمارية نظيفة،
+SQLAlchemy غير متزامن، ترحيلات مُختبَرة، ١٤٣ اختبارًا). غير جاهز للإنتاج بعد، وملف README فيه يذكر
+بدقّة ما ينقصه.
 
 ### طريقة عملي
 
