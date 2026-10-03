@@ -15,11 +15,11 @@ code before you decide to work with me.
 
 | Project | What it does | Tests |
 |---|---|--:|
-| [**talabflow**](https://github.com/pgun879-alt/talabflow) | Turns chat conversations into tracked orders: reference numbers, a guarded status pipeline, an audit trail, customer notifications through a transactional outbox, a JWT staff API and XLSX/CSV export | 333 |
+| [**talabflow**](https://github.com/pgun879-alt/talabflow) | Turns chat conversations into tracked orders: reference numbers, a guarded status pipeline, an audit trail, customer notifications through a transactional outbox, a JWT staff API and XLSX/CSV export | 362 |
 | [**mustanad**](https://github.com/pgun879-alt/mustanad) | Answers questions about your own documents **with the passage each answer came from**, in Arabic or English, fully offline with no API key. BM25 written from scratch | 238 |
 | [**raqib**](https://github.com/pgun879-alt/raqib) | Watches web pages for content, availability and security-posture changes. SSRF guard with DNS pinning, `robots.txt` enforced, one alert per state change instead of one per poll | 298 |
 
-**869 automated tests** across the three, type-checked and linted clean. Each repository documents
+**898 automated tests** across the three, type-checked and linted clean. Each repository documents
 its limitations as plainly as its features, and carries a security policy that states what is
 deliberately *not* a vulnerability.
 
@@ -65,11 +65,11 @@ Working in **Arabic and English** · based in Algeria
 
 | المشروع | ما يفعله | الاختبارات |
 |---|---|--:|
-| [**talabflow**](https://github.com/pgun879-alt/talabflow) | يحوّل المحادثات إلى طلبات مُتابَعة: رقم مرجعي، ومسار حالات محكوم، وسجل تدقيق، وإشعارات تلقائية للعميل، وواجهة إدارة بصلاحيات، وتصدير إلى Excel | ٣٣٣ |
+| [**talabflow**](https://github.com/pgun879-alt/talabflow) | يحوّل المحادثات إلى طلبات مُتابَعة: رقم مرجعي، ومسار حالات محكوم، وسجل تدقيق، وإشعارات تلقائية للعميل، وواجهة إدارة بصلاحيات، وتصدير إلى Excel | ٣٦٢ |
 | [**mustanad**](https://github.com/pgun879-alt/mustanad) | يجيب على الأسئلة من مستنداتك **مع المقطع الذي جاءت منه الإجابة**، بالعربية أو الإنجليزية، دون أي مفتاح API | ٢٣٨ |
 | [**raqib**](https://github.com/pgun879-alt/raqib) | يراقب صفحات الويب: تغيّر المحتوى، والتوافر، وتراجع الأمان. حارس SSRF، واحترام فعلي لـ robots.txt، وتنبيه واحد لكل تغيّر حالة | ٢٩٨ |
 
-**٨٦٩ اختبارًا آليًا** في المشاريع الثلاثة، وفحص أنواع وتنسيق نظيف بالكامل.
+**٨٩٨ اختبارًا آليًا** في المشاريع الثلاثة، وفحص أنواع وتنسيق نظيف بالكامل.
 
 **قيد التطوير:** [**nexabot**](https://github.com/pgun879-alt/nexabot) — أساس منصّة مساعد ذكي (معمارية نظيفة،
 SQLAlchemy غير متزامن، ترحيلات مُختبَرة، ١٤٣ اختبارًا). غير جاهز للإنتاج بعد، وملف README فيه يذكر
